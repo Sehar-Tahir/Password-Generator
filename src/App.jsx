@@ -38,7 +38,7 @@ const App = () => {
 
   return (
     <>
-      <div className="h-screen flex flex-col justify-center items-center">
+      <div className="h-screen flex flex-col justify-center items-center md:m-0 m-6">
         <div className='w-full max-w-md mx-auto'>
           <h1 className='text-3xl text-center font-bold text-blue-600 mt-10 mb-4 w-full'>Password Generator &hearts;</h1>
         </div>
